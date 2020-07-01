@@ -1,0 +1,59 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+/* Multiple-Use Classes */
+
+h1,h2,h3,h4,h5,p{
+    margin:0;
+    padding:0;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+/* Navbar */
+
+.navbarbrandCustImage{
+    position:relative;
+    padding: 0;
+    margin: 0;
+}
+
+.navbarbrandCustText{
+    position: absolute;
+    margin-top: 0.625rem;
+}
+
+.name-nav-item{
+    font-weight:700;
+    font-size: 15px;
+    text-shadow: none; 
+    color: #000000;
+}
+
+.photo-nav-item{
+    font-size: 10px;
+    color: #F3E0DC;
+}
+
+.NavBarTog-cust{
+    margin-top: 0.625rem;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color:#F3E0DC;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    color:#5C2018;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}

@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,p{
     display: inline-block;
 }
 
-/* Navbar */
+/* NAVBAR START */
 
 .navbarbrandCustImage{
     position:relative;
@@ -28,6 +28,16 @@ h1,h2,h3,h4,h5,p{
 .navbarbrandCustText{
     position: absolute;
     margin-top: 0.625rem;
+}
+
+.navbarbrandCustText:hover{
+    position: absolute;
+    color:transparent;
+    margin-top: 0.625rem;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
 }
 
 .name-nav-item{
@@ -57,3 +67,48 @@ h1,h2,h3,h4,h5,p{
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
+
+/* NAVBAR FINISH */
+/* CAROUSEL START */
+
+
+
+/* CAROUSEL FINISH */
+/* FOOTER START */
+
+.FooterCust{
+    border-top: 1px #5C2018 solid;
+    background-color: #BC4639;
+    color:#F3E0DC;
+}
+
+.EmailForm-Title{
+    padding-top: 0.625rem;
+    padding-left: 1.25rem;
+    padding-bottom: 0.625rem;
+}
+
+.EmailForm-User{
+    font-family: "Lobster Two", sans-serif;
+    padding-left: 0;
+    padding-bottom: 0.625rem;
+    margin-left: 0;
+}
+
+.EmailBtnCust{
+    background-color: #D4A59A;
+    border-color: #D4A59A;
+    color:#5C2018;
+}
+
+.EmailBtnCust:hover{
+    background-color: #4285f4;
+    border-color: #4285f4;
+    color: #FAFAFA;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+}
+
+/* FOOTER FINISH */

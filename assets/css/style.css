@@ -33,11 +33,6 @@ h1,h2,h3,h4,h5,p{
 .navbarbrandCustText:hover{
     position: absolute;
     color:transparent;
-    margin-top: 0.625rem;
-    transition: all .35s ease-in-out;
-    -moz-transition: all .35s ease-in-out;
-    -webkit-transition: all .35s ease-in-out;
-    -o-transition: all .35s ease-in-out;
 }
 
 .name-nav-item{
@@ -69,17 +64,31 @@ h1,h2,h3,h4,h5,p{
 }
 
 /* NAVBAR FINISH */
+
 /* CAROUSEL START */
 
+.CarouselCust{
+    margin:auto;
+    width:75%;
+    height:75%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
 
 
 /* CAROUSEL FINISH */
+
 /* FOOTER START */
 
 .FooterCust{
-    border-top: 1px #5C2018 solid;
+    position:absolute;
     background-color: #BC4639;
     color:#F3E0DC;
+}
+
+.EmailForm{
+    position:relative;
+    clear:both;
 }
 
 .EmailForm-Title{
@@ -110,5 +119,37 @@ h1,h2,h3,h4,h5,p{
     -webkit-transition: all .35s ease-in-out;
     -o-transition: all .35s ease-in-out;
 }
+.ExternalLinks{
+    position:relative;
+    right:0;
+
+}
+
+.ExternalLinks-Title{
+    padding-top: 0.625rem;
+    padding-right: 1.25rem;
+    padding-bottom: 0.625rem;
+}
+
+.ExternalLinksList{
+    padding-left: 0;
+    padding-bottom: 0.625rem;
+    margin-left: 0;
+    vertical-align: center;
+}
+
+.ExternalLinksList li a{
+    padding-right: 1.5625rem;
+    color:#D4A59A;
+}
+
+.ExternalLinksList li a:hover{
+    color: #4285F4;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+}
+
 
 /* FOOTER FINISH */

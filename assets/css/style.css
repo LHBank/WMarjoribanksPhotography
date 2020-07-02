@@ -13,6 +13,10 @@ h1,h2,h3,h4,h5,p{
     text-transform: uppercase;
 }
 
+.letter-spacing{
+    letter-spacing: 3px;
+}
+
 .inline-block{
     display: inline-block;
 }
@@ -36,7 +40,6 @@ h1,h2,h3,h4,h5,p{
 }
 
 .name-nav-item{
-    font-weight:700;
     font-size: 15px;
     text-shadow: none; 
     color: #000000;
@@ -86,22 +89,23 @@ h1,h2,h3,h4,h5,p{
     color:#F3E0DC;
 }
 
-.EmailForm{
-    position:relative;
-    clear:both;
-}
+/* Footer Form Start*/
 
 .EmailForm-Title{
+    font-size: 1rem;
     padding-top: 0.625rem;
-    padding-left: 1.25rem;
     padding-bottom: 0.625rem;
+    padding-left: 0.4rem;
 }
 
-.EmailForm-User{
+.EmailForm-Input{
     font-family: "Lobster Two", sans-serif;
-    padding-left: 0;
+    display: flex;
+    justify-content: center;
     padding-bottom: 0.625rem;
-    margin-left: 0;
+    padding-left: 0;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 .EmailBtnCust{
@@ -119,15 +123,19 @@ h1,h2,h3,h4,h5,p{
     -webkit-transition: all .35s ease-in-out;
     -o-transition: all .35s ease-in-out;
 }
-.ExternalLinks{
-    position:relative;
-    right:0;
 
+/* Footer Form Finish */
+
+/* Footer Links Start */
+
+.ExternalLinks{
+    padding: 0;
+    margin: 0;
 }
 
 .ExternalLinks-Title{
     padding-top: 0.625rem;
-    padding-right: 1.25rem;
+    padding-right: 0.4rem;
     padding-bottom: 0.625rem;
 }
 
@@ -135,7 +143,6 @@ h1,h2,h3,h4,h5,p{
     padding-left: 0;
     padding-bottom: 0.625rem;
     margin-left: 0;
-    vertical-align: center;
 }
 
 .ExternalLinksList li a{
@@ -151,5 +158,5 @@ h1,h2,h3,h4,h5,p{
     -o-transition: all .35s ease-in-out;
 }
 
-
+/* Footer Links Finish */
 /* FOOTER FINISH */

@@ -68,6 +68,27 @@ h1,h2,h3,h4,h5,p{
 
 /* NAVBAR FINISH */
 
+.AboutCol{
+    padding: 0;
+}
+
+.AboutTitle{
+    font-style: italic;
+    padding: 0;
+    margin-top: 2rem;
+    margin-left: 0.25rem;
+}
+
+.AboutBlurb{
+    padding: 1rem;
+    margin: 0;
+    text-justify: inter-word;
+}
+
+.ProfPhoto{
+    padding: 4rem 1.25rem 4rem 1.25rem;
+}
+
 /* CAROUSEL START */
 
 .CarouselCust{
@@ -78,9 +99,7 @@ h1,h2,h3,h4,h5,p{
     padding-bottom: 1.25rem;
 }
 
-
 /* CAROUSEL FINISH */
-
 /* FOOTER START */
 
 .FooterCust{
@@ -89,7 +108,7 @@ h1,h2,h3,h4,h5,p{
     color:#F3E0DC;
 }
 
-/* Footer Form Start*/
+/* Footer Form Start */
 
 form {
     display: flex;

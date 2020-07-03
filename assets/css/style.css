@@ -91,6 +91,17 @@ h1,h2,h3,h4,h5,p{
 
 /* Footer Form Start*/
 
+form {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.EmailForm{
+    position: absolute;
+}
+
 .EmailForm-Title{
     font-size: 1rem;
     padding-top: 0.625rem;
@@ -100,12 +111,9 @@ h1,h2,h3,h4,h5,p{
 
 .EmailForm-Input{
     font-family: "Lobster Two", sans-serif;
-    display: flex;
-    justify-content: center;
     padding-bottom: 0.625rem;
     padding-left: 0;
-    margin-left: auto;
-    margin-right:auto;
+
 }
 
 .EmailBtnCust{

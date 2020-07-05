@@ -1,52 +1,51 @@
+# William Marjoribanks | Photography Website
 
-William Marjoribanks | Photography Website
+# User Experience (UX)
 
-#User Experience (UX)
-
-##User Stories
+## User Stories
 
 First Time Visitor Goals
 Returning Visitor Goals
 Frequent User Goals
 
-##Design 
+## Design 
 
 Colour Scheme
 Typography
 Imagery
 
-##Wireframes
+## Wireframes
 
-#Features
+# Features
 
-#Technologies Used
+# Technologies Used
 
-##Languages Used
+## Languages Used
 
-##Frameworks, Libraries & Programs Used
+## Frameworks, Libraries & Programs Used
 
-#Testing
+# Testing
 
-##Testing User Stories from User Experience (UX) Section
+## Testing User Stories from User Experience (UX) Section
 
 First Time Visitor Goals
 Returning Visitor Goals
 Frequent User Goals
 
-##Further Testing
+## Further Testing
 
-#Known Bugs
+# Known Bugs
 
-#Deployment
+# Deployment
 
-##GitHub Pages
-##Forking the GitHub Repository
-##Making a Local Clone
+## GitHub Pages
+## Forking the GitHub Repository
+## Making a Local Clone
 
-#Credits
+# Credits
 
-##Code
-##Content
-##Media
-##Acknowledgements
+## Code
+## Content
+## Media
+## Acknowledgements
 

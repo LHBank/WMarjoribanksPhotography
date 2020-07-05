@@ -67,28 +67,6 @@ h1,h2,h3,h4,h5,p{
 }
 
 /* NAVBAR FINISH */
-
-.AboutCol{
-    padding: 0;
-}
-
-.AboutTitle{
-    font-style: italic;
-    padding: 0;
-    margin-top: 2rem;
-    margin-left: 0.25rem;
-}
-
-.AboutBlurb{
-    padding: 1rem;
-    margin: 0;
-    text-justify: inter-word;
-}
-
-.ProfPhoto{
-    padding: 4rem 1.25rem 4rem 1.25rem;
-}
-
 /* CAROUSEL START */
 
 .CarouselCust{
@@ -187,3 +165,30 @@ form {
 
 /* Footer Links Finish */
 /* FOOTER FINISH */
+/* ABOUT START */
+
+.AboutCol{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 0;
+}
+
+.AboutTitle{
+    padding-bottom: 0.75rem;
+}
+
+.PhotoCol{
+    padding-top: 3rem;
+    padding-bottom: 3rem;  
+    margin: 0;  
+}
+
+.SuppLoCol{
+    padding-top: 2rem;
+    padding-bottom: 2rem; 
+    margin: 0; 
+}
+
+.LocalTitle{
+    padding-bottom: 0.75rem;
+}

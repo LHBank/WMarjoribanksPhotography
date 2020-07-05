@@ -1,7 +1,7 @@
 # William Marjoribanks | Photography Website
 
 Welcome to William Marjoribanks' Photography website. It has been designed by William Marjoribanks, a Full Stack Web Development student at Code Institute, Dublin. 
-It has been designed to be responsive and accessible across vairous devices and marketed toward those interested in viewing a photography portfolio.
+It has been designed to be responsive and accessible across various devices and marketed toward those interested in viewing a photography portfolio.
 
 ## User Experience (UX)
 
@@ -43,6 +43,9 @@ the website to display high quality images, and the result they could expect fro
 ## Wireframes
 
 # Features
+* High quality photography portfolio.
+* Interactive links to related social media networks and subscription.
+* Interactive links to purchase artworks through a third party website.
 
 # Technologies Used
 

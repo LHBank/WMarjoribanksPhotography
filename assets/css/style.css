@@ -50,12 +50,12 @@ h1,h2,h3,h4,h5,p{
 .name-nav-item{
     font-size: 15px;
     text-shadow: none; 
-    color: #000000;
+    color: #000F08;
 }
 
 .photo-nav-item{
     font-size: 10px;
-    color: #F3E0DC;
+    color: #F4FFF8;
 }
 
 .NavBarTog-cust{
@@ -63,11 +63,11 @@ h1,h2,h3,h4,h5,p{
 }
 
 .navbar-nav .nav-item .nav-link{
-    color:#F3E0DC;
+    color: #F4FFF8;
 }
 
 .navbar-nav .nav-item .nav-link:hover{
-    color:#5C2018;
+    color:#000F08;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -79,8 +79,8 @@ h1,h2,h3,h4,h5,p{
 
 .CarouselCust{
     margin:auto;
-    width:75%;
-    height:75%;
+    width:50%;
+    height:50%;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
 }
@@ -88,57 +88,21 @@ h1,h2,h3,h4,h5,p{
 /* CAROUSEL FINISH */
 /* FOOTER START */
 
-.FooterCust{
-    position:absolute;
-    bottom: 0;
-    background-color: #BC4639;
-    color:#F3E0DC;
+footer{
+    background-color: #8BAAAD;
+    color: #F4FFF8;
 }
 
-/* Footer Form Start */
-
-form {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-    align-items: center;
-}
-
-.EmailForm{
-    position: absolute;
-}
-
-.EmailForm-Title{
+.FooterSub{
     font-size: 1rem;
-    padding-top: 0.625rem;
-    padding-bottom: 0.625rem;
-    padding-left: 0.4rem;
-}
-
-.EmailForm-Input{
-    font-family: "Lobster Two", sans-serif;
-    padding-bottom: 0.625rem;
-    padding-left: 0;
+    padding-top: 2.5rem;
 
 }
-
-.EmailBtnCust{
-    background-color: #D4A59A;
-    border-color: #D4A59A;
-    color:#5C2018;
+.CopyFoot{
+    font-size: 0.625rem;
+    border-top-style: 0.125rem solid #4D4847;
+    background-color: #8BAAAD;
 }
-
-.EmailBtnCust:hover{
-    background-color: #4285f4;
-    border-color: #4285f4;
-    color: #FAFAFA;
-    transition: all .35s ease-in-out;
-    -moz-transition: all .35s ease-in-out;
-    -webkit-transition: all .35s ease-in-out;
-    -o-transition: all .35s ease-in-out;
-}
-
-/* Footer Form Finish */
 
 /* Footer Links Start */
 
@@ -148,9 +112,8 @@ form {
 }
 
 .ExternalLinks-Title{
-    padding-top: 0.625rem;
-    padding-right: 0.4rem;
-    padding-bottom: 0.625rem;
+    font-size: 1rem;
+    padding-top: 2.5rem;
 }
 
 .ExternalLinksList{
@@ -160,8 +123,9 @@ form {
 }
 
 .ExternalLinksList li a{
+    font-size: 1.5rem;
     padding-right: 1.5625rem;
-    color:#D4A59A;
+    color: #F4FFF8;
 }
 
 .ExternalLinksList li a:hover{
@@ -217,9 +181,9 @@ form {
 }
 
 .ContactBtnCust{
-    background-color: #D4A59A;
-    border-color: #D4A59A;
-    color:#5C2018;
+    background-color: #4D4847;
+    border-color: #4D4847;
+    color:#F4FFF8;
 }
 
 .ContactBtnCust:hover{
@@ -234,6 +198,6 @@ form {
 
 .EmailFTitle{
     font-size: 20px;
-    color: #5C2018;
+    color: #000F08;
 
 }

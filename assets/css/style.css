@@ -1,5 +1,5 @@
 body{
-    font-family: 'Nanum Gothic', sans-serif;
+    font-family: "Nanum Gothic", sans-serif;
 }
 
 /* Multiple-Use Classes */
@@ -21,6 +21,14 @@ h1,h2,h3,h4,h5,p{
     display: inline-block;
 }
 
+.LobsterF{
+    font-family: "Lobster Two", sans-serif;
+}
+
+.NanumF{
+    font-family: "Nanum Gothic", sans-serif;
+    letter-spacing: -0.050rem;
+}
 /* NAVBAR START */
 
 .navbarbrandCustImage{
@@ -82,6 +90,7 @@ h1,h2,h3,h4,h5,p{
 
 .FooterCust{
     position:absolute;
+    bottom: 0;
     background-color: #BC4639;
     color:#F3E0DC;
 }
@@ -156,7 +165,7 @@ form {
 }
 
 .ExternalLinksList li a:hover{
-    color: #4285F4;
+    color: #3F826D;
     transition: all .35s ease-in-out;
     -moz-transition: all .35s ease-in-out;
     -webkit-transition: all .35s ease-in-out;
@@ -191,4 +200,40 @@ form {
 
 .LocalTitle{
     padding-bottom: 0.75rem;
+}
+
+/* CONTACT START */
+
+.ContactTitle{
+    color: #3F826D;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    margin: 0;
+}
+
+.ContactForm{
+    width: 100%;
+    overflow: auto;
+}
+
+.ContactBtnCust{
+    background-color: #D4A59A;
+    border-color: #D4A59A;
+    color:#5C2018;
+}
+
+.ContactBtnCust:hover{
+    background-color: #3F826D;
+    border-color: #3F826D;
+    color: #FAFAFA;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+}
+
+.EmailFTitle{
+    font-size: 20px;
+    color: #5C2018;
+
 }

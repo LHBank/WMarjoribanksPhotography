@@ -29,6 +29,11 @@ h1,h2,h3,h4,h5,p{
     font-family: "Nanum Gothic", sans-serif;
     letter-spacing: -0.050rem;
 }
+
+.ItalianaF{
+    font-family: "Italiana", sans-serif;
+}
+
 /* NAVBAR START */
 
 .navbarbrandCustImage{
@@ -165,6 +170,37 @@ footer{
 .LocalTitle{
     padding-bottom: 0.75rem;
 }
+
+/* MYANMAR START */
+
+.myanTitle{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+
+.myanText{
+    text-justify:inter-word; 
+    padding: 0;
+    padding-bottom: 1rem;
+}
+
+.myanImage{
+    padding: 1rem;
+
+}
+
+.myanImage a{
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: #000F08;
+    
+}
+.myanImage a:hover{
+    color: #3F826D;
+}
+
+
 
 /* CONTACT START */
 

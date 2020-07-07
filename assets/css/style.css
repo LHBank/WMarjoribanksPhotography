@@ -79,6 +79,23 @@ h1,h2,h3,h4,h5,p{
     -o-transition: all 0.35s ease-in-out;
 }
 
+.DpDMenuCust{
+    background-color: #8BAAAD;
+}
+
+.DpDMItemC{
+    background-color: #8BAAAD;
+    color: #F4FFF8;
+}
+
+.DpDMItemC:hover{
+    background-color: #8BAAAD; 
+    color: #1C3738;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
 /* NAVBAR FINISH */
 /* CAROUSEL START */
 
@@ -187,6 +204,9 @@ footer{
 
 .myanImage{
     padding: 1rem;
+}
+
+.myanImage img{
 
 }
 

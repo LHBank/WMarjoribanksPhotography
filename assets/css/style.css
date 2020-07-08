@@ -85,17 +85,56 @@ h1,h2,h3,h4,h5,p{
 
 .DpDMItemC{
     background-color: #8BAAAD;
-    color: #F4FFF8;
 }
 
-.DpDMItemC:hover,:active{
-    background-color: #4D4847; 
-    color: #1C3738;
+.DpDMItemC:hover{
+    background-color: #1C3738;
+    color: #F4FFF8;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
+
+.DpDMItemC :active{
+    background-color: #8BAAAD;
+}
+
+.PrintAvail-Title{
+    font-family: "Italiana", sans-serif;
+    padding-top: 5rem; 
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+.PrintAvail-Text{
+    font-family: "Nanum Gothic", sans-serif;
+    font-style: italic;
+    font-size: 1.25rem;
+    padding-bottom: 5rem;
+    padding-left: 2rem;
+}
+
+.CTA-Btn{
+    background-color: #4D4847;
+    border-color: #4D4847;
+    color:#F4FFF8;
+    margin: auto;
+    margin-bottom: 5.4rem;
+    margin-left: 2rem;
+}
+
+.CTA-Btn:hover{
+    background-color: #3F826D;
+    border-color: #3F826D;
+    color: #FAFAFA;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+}
+
+
 /* NAVBAR FINISH */
 /* CAROUSEL START */
 
@@ -216,7 +255,32 @@ footer{
     color: #3F826D;
 }
 
+/* HONG KONG */
 
+.bwTitle{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.bwText{
+    text-justify:inter-word; 
+    padding: 0;
+    padding-bottom: 1rem;
+}
+
+.bwImage{
+    padding: 1rem;
+}
+
+.bwImage a{
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: #000F08;
+    
+}
+.bwImage a:hover{
+    color: #3F826D;
+}
 
 /* CONTACT START */
 

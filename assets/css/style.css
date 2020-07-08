@@ -88,8 +88,8 @@ h1,h2,h3,h4,h5,p{
     color: #F4FFF8;
 }
 
-.DpDMItemC:hover{
-    background-color: #8BAAAD; 
+.DpDMItemC:hover,:active{
+    background-color: #4D4847; 
     color: #1C3738;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
@@ -204,10 +204,6 @@ footer{
 
 .myanImage{
     padding: 1rem;
-}
-
-.myanImage img{
-
 }
 
 .myanImage a{

@@ -100,10 +100,12 @@ h1,h2,h3,h4,h5,p{
     background-color: #8BAAAD;
 }
 
+/* NO FILE CSS */
+
 .PrintAvail-Title{
     font-family: "Italiana", sans-serif;
     padding-top: 5rem; 
-    padding-bottom: 2rem;
+    padding-bottom: 4rem;
     padding-left: 2rem;
 }
 
@@ -134,8 +136,9 @@ h1,h2,h3,h4,h5,p{
     -o-transition: all .35s ease-in-out;
 }
 
-
+/* NO FILE CSS FINISH */
 /* NAVBAR FINISH */
+
 /* CAROUSEL START */
 
 .CarouselCust{
@@ -242,6 +245,8 @@ footer{
 }
 
 .myanImage{
+    display: block;
+    margin: auto;
     padding: 1rem;
 }
 
@@ -255,7 +260,7 @@ footer{
     color: #3F826D;
 }
 
-/* HONG KONG */
+/* B & W */
 
 .bwTitle{
     padding-top: 2rem;
@@ -269,6 +274,8 @@ footer{
 }
 
 .bwImage{
+    display: block;
+    margin: auto;
     padding: 1rem;
 }
 
@@ -281,6 +288,36 @@ footer{
 .bwImage a:hover{
     color: #3F826D;
 }
+
+/* MALAYSIA */
+
+.malayTitle{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.malayText{
+    text-justify:inter-word; 
+    padding: 0;
+    padding-bottom: 1rem;
+}
+
+.malayImage{
+    display: block;
+    margin: auto;
+    padding: 1rem;
+}
+
+.malayImage a{
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: #000F08;
+    
+}
+.malayImage a:hover{
+    color: #3F826D;
+}
+
 
 /* CONTACT START */
 

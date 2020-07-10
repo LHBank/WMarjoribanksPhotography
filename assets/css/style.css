@@ -130,7 +130,7 @@ h1,h2,h3,h4,h5,p{
 .CTA-Btn:hover{
     background-color: #3F826D;
     border-color: #3F826D;
-    color: #FAFAFA;
+    color: #F4FFF8;
     transition: all .35s ease-in-out;
     -moz-transition: all .35s ease-in-out;
     -webkit-transition: all .35s ease-in-out;
@@ -176,11 +176,36 @@ footer{
     color: #F4FFF8;
 }
 
-.FooterSub{
-    font-size: 1rem;
-    padding-top: 2.5rem;
-
+.FootRow{
+    padding-top: 2rem;
 }
+
+.FootBtn {
+    position: relative;
+	background-color: #8BAAAD;
+    border-color: #8BAAAD;
+	color: #F4FFF8;
+    font-size: 1rem;
+	border-radius: 0.3125rem;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+    -moz-transition: all 500ms ease-in-out;
+    -webkit-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+}
+
+.FootBtn:before {
+	content:'';
+	position: absolute;
+	transition: all 2s ease;
+} 
+
+.FootBtn:hover {
+    transform: skew(-10deg);
+    background-color: #3F826D;
+    border-color: #3F826D;
+}
+
 .CopyFoot{
     font-size: 0.625rem;
     border-top-style: 0.125rem solid #4D4847;
@@ -189,29 +214,25 @@ footer{
 
 /* Footer Links Start */
 
-.ExternalLinks{
-    padding: 0;
-    margin: 0;
-}
-
-.ExternalLinks-Title{
+.ConnTitle{
     font-size: 1rem;
-    padding-top: 2.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
 }
 
-.ExternalLinksList{
+.ConnList{
     padding-left: 0;
     padding-bottom: 0.625rem;
     margin-left: 0;
 }
 
-.ExternalLinksList li a{
+.ConnList li a{
     font-size: 1.5rem;
-    padding-right: 1.5625rem;
+    padding-right: 0.4rem;
     color: #F4FFF8;
 }
 
-.ExternalLinksList li a:hover{
+.ConnList li a:hover{
     color: #3F826D;
     transition: all .35s ease-in-out;
     -moz-transition: all .35s ease-in-out;

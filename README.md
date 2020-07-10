@@ -85,6 +85,9 @@ the website to display high quality images, and the result they could expect fro
 # Credits
 
 ## Code
+
+* **Hover** effect on 'Choose Art' button on homepage, found at: https://www.developerdrive.com/8-simple-css-hover-effects/
+
 ## Content
 ## Media
 ## Acknowledgements

@@ -99,6 +99,7 @@ h1,h2,h3,h4,h5,p{
 .DpDMItemC :active{
     background-color: #8BAAAD;
 }
+/* NAVBAR FINISH */
 
 /* NO FILE CSS */
 
@@ -137,16 +138,29 @@ h1,h2,h3,h4,h5,p{
 }
 
 /* NO FILE CSS FINISH */
-/* NAVBAR FINISH */
 
-/* CAROUSEL START */
+/* LANDING START */
 
+/* Landing Header Start */
+
+.LandingText h1{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.LandingText p{
+    font-family: "Italiana", sans-serif;
+    font-size: 1.1rem;
+    font-style: italic;
+}
+
+/* Carousel Start */
 .CarouselCust{
-    margin:auto;
-    width:50%;
-    height:50%;
+    display: block;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
+    margin:auto;
+
 }
 
 /* CAROUSEL FINISH */

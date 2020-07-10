@@ -143,6 +143,11 @@ h1,h2,h3,h4,h5,p{
 
 /* Landing Header Start */
 
+.LandingImage{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
 .LandingText h1{
     padding-top: 2rem;
     padding-bottom: 2rem;
@@ -150,7 +155,7 @@ h1,h2,h3,h4,h5,p{
 
 .LandingText p{
     font-family: "Italiana", sans-serif;
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-style: italic;
 }
 

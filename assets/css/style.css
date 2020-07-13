@@ -386,6 +386,30 @@ footer{
     border-color: #FFFFFF;
     border-radius: 0;
 }
+
+.ModalCustBtnD{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-family: "Almarai", sans-serif;
+    font-weight: 300;
+    font-size: 0.75rem;
+    background-color: #FFFFFF;
+    border-color: #000000;
+    color: #000000;
+    border-radius: 0;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.ModalCustBtnD:hover{
+    font-weight: 400;
+    background-color: #FABC2A;
+    border-color: #000000;
+    color: #000000;
+    border-radius: 0;
+}
+
 /* CONTACT START */
 
 .FormTopT{

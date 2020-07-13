@@ -285,6 +285,20 @@ footer{
     padding: 1rem;
 }
 
+.myanImgT{
+    color: #000F08;
+    text-decoration: none;
+}
+
+.myanImgT:hover{
+    color: #3F826D;
+    text-decoration: none;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+}
+
 
 /* B & W */
 
@@ -344,7 +358,34 @@ footer{
     color: #3F826D;
 }
 
+/* MODAL WINDOW */
 
+.ModalCust{
+    font-family: "Almarai", sans-serif;
+    font-size: 1rem;
+}
+
+.ModalCustBtn{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-family: "Almarai", sans-serif;
+    font-weight: 300;
+    background-color: #FFFFFF;
+    border-color: #000000;
+    color: #000000;
+    border-radius: 0;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-right: 0.115rem;
+}
+
+.ModalCustBtn:hover{
+    font-weight: 400;
+    background-color: #000000;
+    border-color: #FFFFFF;
+    border-radius: 0;
+}
 /* CONTACT START */
 
 .FormTopT{

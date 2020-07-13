@@ -21,10 +21,6 @@ h1,h2,h3,h4,h5,p{
     display: inline-block;
 }
 
-.LobsterF{
-    font-family: "Lobster Two", sans-serif;
-}
-
 .NanumF{
     font-family: "Nanum Gothic", sans-serif;
     letter-spacing: -0.050rem;
@@ -32,6 +28,11 @@ h1,h2,h3,h4,h5,p{
 
 .ItalianaF{
     font-family: "Italiana", sans-serif;
+}
+
+.AlmaraiF{
+    font-family: "Almarai", sans-serif;
+    font-weight: 400;
 }
 
 /* NAVBAR START */
@@ -275,7 +276,6 @@ footer{
 .myanTitle{
     padding-top: 2rem;
     padding-bottom: 2rem;
-
 }
 
 .myanText{

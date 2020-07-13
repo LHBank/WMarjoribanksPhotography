@@ -1,7 +1,3 @@
-body{
-    font-family: "Nanum Gothic", sans-serif;
-}
-
 /* Multiple-Use Classes */
 
 h1,h2,h3,h4,h5,p{
@@ -9,8 +5,19 @@ h1,h2,h3,h4,h5,p{
     padding:0;
 }
 
-.uppercase{
+h1,button{
+    font-family: "Italiana", sans-serif;
+}
+
+h2,h3,
+h4,h5{
+    font-family: "Almarai", sans-serif;
+    font-weight: 300;
     text-transform: uppercase;
+}
+
+nav,p,form{
+    font-family: "Nanum Gothic", sans-serif;
 }
 
 .letter-spacing{
@@ -19,20 +26,6 @@ h1,h2,h3,h4,h5,p{
 
 .inline-block{
     display: inline-block;
-}
-
-.NanumF{
-    font-family: "Nanum Gothic", sans-serif;
-    letter-spacing: -0.050rem;
-}
-
-.ItalianaF{
-    font-family: "Italiana", sans-serif;
-}
-
-.AlmaraiF{
-    font-family: "Almarai", sans-serif;
-    font-weight: 400;
 }
 
 /* NAVBAR START */

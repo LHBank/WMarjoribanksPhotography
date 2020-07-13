@@ -5,19 +5,23 @@ h1,h2,h3,h4,h5,p{
     padding:0;
 }
 
-h1,button{
+h1,h2,button{
     font-family: "Italiana", sans-serif;
 }
 
-h2,h3,
+h3,
 h4,h5{
     font-family: "Almarai", sans-serif;
     font-weight: 300;
-    text-transform: uppercase;
 }
 
 nav,p,form{
     font-family: "Nanum Gothic", sans-serif;
+}
+
+footer,button,h5{
+    font-family: "Italiana", sans-serif;
+    text-transform: uppercase;
 }
 
 .letter-spacing{
@@ -98,14 +102,12 @@ nav,p,form{
 /* NO FILE CSS */
 
 .PrintAvail-Title{
-    font-family: "Italiana", sans-serif;
     padding-top: 5rem; 
     padding-bottom: 4rem;
     padding-left: 2rem;
 }
 
 .PrintAvail-Text{
-    font-family: "Nanum Gothic", sans-serif;
     font-style: italic;
     font-size: 1.25rem;
     padding-bottom: 5rem;

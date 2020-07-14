@@ -299,7 +299,6 @@ footer{
     -o-transition: all .35s ease-in-out;
 }
 
-
 /* B & W */
 
 .bwTitle{
@@ -319,14 +318,18 @@ footer{
     padding: 1rem;
 }
 
-.bwImage a{
-    font-size: 0.8rem;
-    text-decoration: none;
+.bwImgT{
     color: #000F08;
-    
+    text-decoration: none;
 }
-.bwImage a:hover{
+
+.bwImgT:hover{
     color: #3F826D;
+    text-decoration: none;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
 }
 
 /* MALAYSIA */

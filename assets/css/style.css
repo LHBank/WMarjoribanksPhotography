@@ -258,7 +258,7 @@ footer{
 
 .SuppLoCol{
     padding-top: 2rem;
-    padding-bottom: 2rem; 
+    padding-bottom: 2rem;
     margin: 0; 
 }
 
@@ -281,8 +281,8 @@ footer{
 
 .myanImage{
     display: block;
-    margin: auto;
     padding: 1rem;
+    margin: 0;
 }
 
 .myanImgT{
@@ -364,6 +364,16 @@ footer{
     -webkit-transition: all .35s ease-in-out;
     -o-transition: all .35s ease-in-out;
 }
+
+/* GALLERY CAROUSEL*/
+
+.GallCar{
+    margin-top: 2rem;
+    margin-bottom: 5rem; 
+}
+
+
+
 /* MODAL WINDOW */
 
 .ModalCust{

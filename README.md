@@ -38,10 +38,12 @@ not included in any heading elements. Almaira was used against the heading and c
 third party site where images can be purchased. Sans Serif was used as a substitute where the aforementioned custom fonts were not supported 
 by selected browsers or devices.
 ### Imagery
-With imagery being at the forefront and of utmost importance to the site, original artworks owned by William Marjoribanks, was used throughout
+With imagery being at the forefront and of utmost importance to the site, original artworks owned by William Marjoribanks, were used throughout
 the website to display high quality images, and the result they could expect from purchasing a piece from the portfolio.
 
 ## Wireframes
+
+
 
 # Features
 * High quality photography portfolio.
@@ -86,9 +88,13 @@ the website to display high quality images, and the result they could expect fro
 # Credits
 
 ## Code
+
 * **Hover** effect on 'Choose Art' button on homepage, found at: https://www.developerdrive.com/8-simple-css-hover-effects/
 
 ## Content
 ## Media
+#### YouTube Links Used as Reference Guide:
+* [Click here for the link](https://www.youtube.com/watch?v=qmPmwdshCMw) used for further practical explanation of Bootstrap Grid - supplied by my mentor.
 ## Acknowledgements
-
+Many thanks to my mentor, Felipe Souza Alarcon, for being able to assist me at a moments notice, when I was encountering difficulty with various aspects of the project
+ and for ensuring I make the most of the tools available to me.

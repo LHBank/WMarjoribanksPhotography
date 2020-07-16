@@ -369,6 +369,10 @@ footer{
     -o-transition: all .35s ease-in-out;
 }
 
+.BlockCust{
+    padding-bottom: 2rem;
+}
+
 /* GALLERY CAROUSEL*/
 
 .GallCar{

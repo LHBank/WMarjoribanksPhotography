@@ -42,8 +42,13 @@ With imagery being at the forefront and of utmost importance to the site, origin
 the website to display high quality images, and the result they could expect from purchasing a piece from the portfolio.
 
 ## Wireframes
+### Desktop Wireframe
+<img src="wireframes/LaptopLand.png" width="350"> <img src="wireframes/LaptopAbout.png" width="350">
+<img src="wireframes/LaptopGallery.png" width="350"> <img src="wireframes/LaptopBlog.png" width="350">
 
-
+### Mobile Device
+<img src="wireframes/MobileLand.png" width="350"> <img src="wireframes/MobileAbout.png" width="350">
+<img src="wireframes/MobileGallery.png" width="350"> <img src="wireframes/MobileBlog.png" width="350">
 
 # Features
 * High quality photography portfolio.

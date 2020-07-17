@@ -37,6 +37,7 @@ used against headings and input forms including buttons, and Nanum Gothic as the
 not included in any heading elements. Almaira was used against the heading and content elements in the Modal Window to match that of the
 third party site where images can be purchased. Sans Serif was used as a substitute where the aforementioned custom fonts were not supported 
 by selected browsers or devices.
+
 ### Imagery
 With imagery being at the forefront and of utmost importance to the site, original artworks owned by William Marjoribanks, were used throughout
 the website to display high quality images, and the result they could expect from purchasing a piece from the portfolio.

@@ -19,7 +19,7 @@ nav,p,form{
     font-family: "Nanum Gothic", sans-serif;
 }
 
-footer,button,h5{
+footer,button,h5,h6{
     font-family: "Italiana", sans-serif;
     text-transform: uppercase;
 }
@@ -30,6 +30,12 @@ footer,button,h5{
 
 .inline-block{
     display: inline-block;
+}
+
+.BadgeGreen{
+    background-color: #3F826D;
+    border-color: #3F826D;
+
 }
 
 /* NAVBAR START */
@@ -155,16 +161,69 @@ footer,button,h5{
     font-style: italic;
 }
 
-/* Carousel Start */
+/* LAND CAROUSEL START */
+
 .CarouselCust{
     display: block;
     padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
+    padding-bottom: 1rem;
     margin:auto;
-
 }
 
-/* CAROUSEL FINISH */
+/* LAND CAROUSEL FINISH */
+/* LAND CARD START */
+
+.LCardCust{
+    font-family: "Almarai", sans-serif;
+    text-decoration: none;
+    color: #1C3738;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.LCardBodCust{
+    background-color: #F4FFF8;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.LCardBodCust:hover{
+    text-decoration: none;
+    color: #1C3738;
+    transform: scale(1.1);
+    transition: all .9s ease-in-out;
+    -moz-transition: all .9s ease-in-out;
+    -webkit-transition: all .9s ease-in-out;
+    -o-transition: all .9s ease-in-out;
+}
+
+.LCardContCust{
+    text-decoration: none;
+    color: #1C3738; 
+}
+
+.LCardContCust:hover{
+    text-decoration: none;
+    font-weight: 400;
+    color: #1C3738; 
+}
+
+.ECTLINK{
+    text-decoration: underline;
+    color: #1C3738; 
+}
+
+.ECTLINK:hover{
+    font-weight: bolder;
+    color: #1C3738; 
+}
+
+.LCardHdCust{
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #1C3738;
+}
+
+/* LAND CARD FINISH */
 /* FOOTER START */
 
 footer{
@@ -408,7 +467,6 @@ footer{
     padding-left: 2rem;
     padding-right: 2rem;
     margin-right: 0.9rem;
-
 }
 
 .ModalCustBtn:hover{

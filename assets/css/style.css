@@ -1,3 +1,8 @@
+body {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
 /* Multiple-Use Classes */
 
 h1,h2,h3,h4,h5,p{
@@ -182,7 +187,6 @@ footer,button,h5,h6{
 }
 
 .LCardBodCust{
-    background-color: #F4FFF8;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
@@ -219,7 +223,7 @@ footer,button,h5,h6{
 }
 
 .LCardHdCust{
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(139,170,173,0.5);
     color: #1C3738;
 }
 

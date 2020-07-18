@@ -440,6 +440,7 @@ footer{
 /* GALLERY CAROUSEL*/
 
 .GallCar{
+    padding: 0 1rem;
     margin-top: 2rem;
     margin-bottom: 5rem; 
 }
@@ -520,7 +521,6 @@ footer{
 .FormInput{
     padding-top: 2rem;
     padding-bottom: 2rem;
-
 }
 
 .CFBtnCust{

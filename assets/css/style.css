@@ -512,30 +512,22 @@ footer{
     padding: 3rem 0;
 }
 
-.BlogArt:hover{
-    border: 1px solid #4D4847;
-    border-radius: 2.5%;
-    padding-bottom: 0.5rem;
-    transform: scale(0.9);
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-    -o-transition: all .5s ease-in-out;
-}
-
 .BlogImg{
-    border-radius: 10%;
     padding: 0.5rem 0;
 }
 
 .BlogDate{
+    color: #1C3738;
     padding: 0.5rem 0;
 }
+
 .BlogHead{
-    padding: 0.5rem 0;    
+    color: #4D4847;
+    padding: 1rem 0;    
 }
+
 .BlogText{
-    padding: 0.5rem 0;    
+    padding: 1rem 0;    
 }
 
 .BlogBtn{
@@ -544,16 +536,6 @@ footer{
     color:#F4FFF8;
 }
 
-.BlogBtn:hover{
-    background-color: #3F826D;
-    border-color: #3F826D;
-    color: #F4FFF8;
-    transition: all .35s ease-in-out;
-    -moz-transition: all .35s ease-in-out;
-    -webkit-transition: all .35s ease-in-out;
-    -o-transition: all .35s ease-in-out;
-}
-}
 
 /* BLOG FINISH */
 /* CONTACT START */

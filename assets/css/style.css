@@ -522,8 +522,8 @@ footer{
 }
 
 .BlogHead{
-    color: #4D4847;
-    padding: 1rem 0;    
+    color: #1C3738;
+    padding: 1rem 0;
 }
 
 .BlogText{
@@ -534,6 +534,35 @@ footer{
     background-color: #4D4847;
     border-color: #4D4847;
     color:#F4FFF8;
+}
+
+.BlogBtn:hover{
+    background-color: #3F826D;
+    border-color: #3F826D;
+    color:#F4FFF8;
+    text-decoration: none;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+}
+
+.BlogArtBtn{
+    background-color: #4D4847;
+    border-color: #4D4847;
+    color:#F4FFF8;
+    margin-top: 2rem;
+}
+
+.BlogArtBtn:hover{
+    background-color: #3F826D;
+    border-color: #3F826D;
+    color: #F4FFF8;
+    text-decoration: none;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
 }
 
 

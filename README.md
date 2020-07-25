@@ -1,7 +1,15 @@
 # William Marjoribanks | Photography Website
 
-Welcome to William Marjoribanks' Photography website. It has been designed by William Marjoribanks, a Full Stack Web Development student at Code Institute, Dublin. 
-It has been designed to be responsive and accessible across various devices and marketed toward those interested in viewing a photography portfolio.
+## Description
+
+Welcome to William Marjoribanks Photography website. This website has been designed to be an online portal to the current and
+ongoing photographic portoflio of William Marjoribanks. As well as being a site to read blog posts, relevant to travel it offers the 
+option to purchase selected artworks, by means of using a third party site. In addition to this, it gives the option for users 
+to contact the photographer for potential or upcoming projects as well as English language education to students.
+
+## Deployment
+
+This website has been deployed to Github pages and can be accessed by [clicking here.](https://lhbank.github.io/MS1/)
 
 ## User Experience (UX)
 

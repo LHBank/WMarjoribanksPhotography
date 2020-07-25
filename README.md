@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/images/logo/sig_black.png" alt="Wm-Logo" width="100">
+</p>
+
 # William Marjoribanks | Photography Website
 
 ## Description

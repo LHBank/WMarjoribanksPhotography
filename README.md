@@ -29,7 +29,6 @@ This website has been deployed to Github pages and can be accessed by [clicking 
 ### Returning Visitor Goals
 
 * As a returning user to the site, I want to be able to contact the author and owner of potential project ideas.
-* As a returning user to the site, I want to be able to find out about purchases made, and who is responsible for returns and refunds.
 * As a returning user to the site, I want to be informed of any discounts or offers available for sale against the cost of the art promote 
   through the gallery and third party site, PicFair.
 
@@ -92,16 +91,28 @@ the website to display high quality images, and the result they could expect fro
 ## Testing User Stories from User Experience (UX) Section
 
 ### First Time Visitor Goals
+* As a first time user, I was able to see that the site was dedicated to a photographer or travel enthusiast.
+* As a first time user, I was able to navigate with ease throughout the site using the navbar at the head of page, to each
+dedicated section and had options which linked to third party sites.
+* As a first time user, I had various ways of signing up to site updates via: the "Contact" page in the navigation bar and
+the "Register Here" button on the homepage landing card.
+* As a first time user, after visiting all dedicated pages throughout the sites, the option to connect through social media/networks
+was made available consistently in the footer of the page, via dedicated logos which I recognised immediately.
 ### Returning Visitor Goals
+* As a returning user of the site, I was able to contact the author of this page using the "Contact" page form, regarding a tour
+I was interested in taking with my family, and who would take payment.
+* As a returning visitor, I was able to find out if initially unavailable images which I had selected on my previous visit were now
+able to be printed, by clicking on the selected artwork. I was also linked to the "Contact" page by clicking the "More Info" button
+on the pop-up window of a selected artwork.
+
 ### Frequent User Goals
+* As a frequent user of the site, after registering for updates on submitting my details via the "Contact" page, I was able to navigate
+with ease to the blog section of the site, to read the newest blog article. I was also able to access this via the homepage, from
+the advertised article at the bottom left of the page.
 
 ## Further Testing
 
 # Known Bugs
-
-# Deployment
-
-## GitHub Pages
 
 # Credits
 

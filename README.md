@@ -75,16 +75,16 @@ the website to display high quality images, and the result they could expect fro
 * CSS3
 
 ## Frameworks, Libraries & Programs Used
-* Bootstrap 4.5
-* GitHub
-* Gitpod
-* WireframeCC - This service was utilised to create sample wireframe guides to structure the content to be displayed on the site.
-* Google Fonts
-* Font Awesome
-* Coolors - This service, was used to generate a colour palette which would be used against all elements in a consistent theme throughout
+* [Bootstrap 4.5](https://getbootstrap.com/) - Bootstrap was utilised as a framework for CSS used throughout the site.
+* [GitHub](https://github.com/) - GitHub was utilised for version control of the site.
+* [Gitpod](https://www.gitpod.io/) - Gitpod was used over the duration of this site, as a virtual workspace environment.
+* [WireframeCC](https://wireframe.cc/) - This service was utilised to create sample wireframe guides to structure the content to be displayed on the site.
+* [Google Fonts](https://fonts.google.com/) - Google Fonts was chosen to supply all fonts used throughout the site.
+* [Font Awesome](https://fontawesome.com/) - FontAwesome was used for icons used in footer.
+* [Coolors](https://coolors.co/) - This service, was used to generate a colour palette which would be used against all elements in a consistent theme throughout
   the site.
 * Lightroom 4 - Pre-installed photography editing software used to compress the images used throughout the gallery pages.
-
+* [TinyPNG](https://tinypng.com/) - was used to further compress all images used throughout the site.
 
 # Testing
 

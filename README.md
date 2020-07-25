@@ -13,7 +13,7 @@ to contact the photographer for potential or upcoming projects as well as Englis
 
 ## Deployment
 
-This website has been deployed to Github pages and can be accessed by [clicking here.](https://lhbank.github.io/MS1/)
+This website has been deployed to Github pages and can be accessed by [clicking here.](https://lhbank.github.io/WMarjoribanksPhotography/)
 
 ## User Experience (UX)
 

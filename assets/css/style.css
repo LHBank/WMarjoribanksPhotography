@@ -127,6 +127,8 @@ footer,button,h5,h6{
 }
 
 .CTA-Btn{
+    font-family: "Italiana", sans-serif;
+    text-transform: uppercase;
     background-color: #4D4847;
     border-color: #4D4847;
     color:#F4FFF8;

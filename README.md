@@ -66,6 +66,7 @@ the website to display high quality images, and the result they could expect fro
 * High quality photography portfolio.
 * Interactive links to related social media networks and subscription.
 * Interactive links to purchase artworks through a third party website.
+* Blog section with recent articles uploaded by author.
 
 # Technologies Used
 
@@ -114,6 +115,11 @@ the advertised article at the bottom left of the page.
 
 # Known Bugs
 
+On deployment of the W. Marjoribanks Photography website, it was identified that the images weren't displaying on any of the carousel
+elements, gallery grid system and modal windows. This was fixed by reuploading the images  without the '_' filename prefix and changing 
+the file extension from '.jpg' to '.JPG'. This rectified the issue and now, when a user accesses the GitHub pages link at the head of
+the README.md document, all images are displayed.
+
 # Credits
 
 ## Code
@@ -122,8 +128,11 @@ the advertised article at the bottom left of the page.
 
 ## Content
 ## Media
+
 #### YouTube Links Used as Reference Guide:
 * [Click here for the link](https://www.youtube.com/watch?v=qmPmwdshCMw) used for further practical explanation of Bootstrap Grid - supplied by my mentor.
+
 ## Acknowledgements
+
 Many thanks to my mentor, Felipe Souza Alarcon, for being able to assist me at a moments notice, when I was encountering difficulty with various aspects of the project
  and for ensuring I make the most of the tools available to me.

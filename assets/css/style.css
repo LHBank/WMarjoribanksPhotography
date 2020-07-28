@@ -40,7 +40,6 @@ footer,button,h5,h6{
 .BadgeGreen{
     background-color: #3F826D;
     border-color: #3F826D;
-
 }
 
 /* NAVBAR START */
@@ -110,8 +109,8 @@ footer,button,h5,h6{
     background-color: #8BAAAD;
 }
 /* NAVBAR FINISH */
-/* LANDING START */
 
+/* Index.html START */
 /* Landing Header Start */
 
 .LandingImage{
@@ -130,7 +129,7 @@ footer,button,h5,h6{
     font-style: italic;
 }
 
-/* LAND CAROUSEL START */
+/* Index.html Carousel START */
 
 .CarouselCust{
     display: block;
@@ -139,8 +138,8 @@ footer,button,h5,h6{
     margin:auto;
 }
 
-/* LAND CAROUSEL FINISH */
-/* LAND CARD START */
+/* index.html Carousel FINISH */
+/* index.html Card START */
 
 .LCardCust{
     font-family: "Almarai", sans-serif;
@@ -199,8 +198,8 @@ footer,button,h5,h6{
     -o-transition: all .35s ease-in-out;
 }
 
-/* LAND CARD FINISH */
-/* FOOTER START */
+/* index.html Card FINISH */
+/* Footer START */
 
 footer{
     background-color: #8BAAAD;
@@ -274,7 +273,7 @@ footer{
 /* Footer Links Finish */
 /* Footer Finish*/
 
-/* ABOUT START */
+/* about.html START */
 
 .AbLog{
     padding-top: 1rem;
@@ -306,7 +305,8 @@ footer{
     padding-bottom: 0.75rem;
 }
 
-/* MYANMAR START */
+/* about.html FINISH */
+/* myanmar.html START */
 
 .myanTitle{
     padding-top: 2rem;
@@ -339,7 +339,9 @@ footer{
     -o-transition: all .35s ease-in-out;
 }
 
-/* NO FILE CSS */
+/* Myanmar.html START */
+
+/* nofile.html */
 
 .PrintAvail-Title{
     padding-top: 5rem; 
@@ -375,8 +377,9 @@ footer{
     -o-transition: all .35s ease-in-out;
 }
 
-/* NO FILE CSS FINISH */
-/* B & W */
+/* nofile.html FINISH */
+
+/* bw.html START */
 
 .bwTitle{
     padding-top: 2rem;
@@ -409,7 +412,7 @@ footer{
     -o-transition: all .35s ease-in-out;
 }
 
-/* MALAYSIA */
+/* malaysia.html */
 
 .malayTitle{
     padding-top: 2rem;
@@ -446,7 +449,7 @@ footer{
     padding-bottom: 2rem;
 }
 
-/* GALLERY CAROUSEL*/
+/* IMAGE GALLERY CAROUSEL*/
 
 .GallCar{
     padding: 0 1rem;
@@ -454,7 +457,7 @@ footer{
     margin-bottom: 5rem; 
 }
 
-/* MODAL WINDOW */
+/* IMAGE GALLERY MODAL WINDOWS */
 
 .ModalCust{
     font-family: "Almarai", sans-serif;
@@ -500,6 +503,7 @@ footer{
     font-family: "Almarai", sans-serif;
     font-weight: 300;
     font-size: 0.75rem;
+    text-transform: uppercase;
     background-color: #FFFFFF;
     border-color: #000000;
     color: #000000;
@@ -517,7 +521,7 @@ footer{
     border-radius: 0;
 }
 
-/* BLOG START */
+/* blog.html START */
 
 .BlogSectHead{
     padding-top: 3rem;
@@ -584,8 +588,9 @@ footer{
 }
 
 
-/* BLOG FINISH */
-/* CONTACT START */
+/* blog.html FINISH */
+
+/* contact.html START */
 
 .FormTopT{
     padding-top: 2rem;
@@ -601,3 +606,5 @@ footer{
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
+
+/* contact.html FINISH */

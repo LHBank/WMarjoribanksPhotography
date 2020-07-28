@@ -74,9 +74,13 @@ the website to display high quality images, and the result they could expect fro
 
 * HTML5
 * CSS3
+* Javascript - Used within various elements of the pages, including: Navbar, Collapse, Dropdown Menu, Carousel, Buttons,
+and Modal Windows.
 
 ## Frameworks, Libraries & Programs Used
 * [Bootstrap 4.5](https://getbootstrap.com/) - Bootstrap was utilised as a framework for CSS used throughout the site.
+* [Popper.js](https://popper.js.org/) - Used for the navigation elements on Carousel elements used on the site.
+* [jQuery](https://jquery.com/) - Used as a Javascript library by Bootstrap.
 * [GitHub](https://github.com/) - GitHub was utilised for version control of the site.
 * [Gitpod](https://www.gitpod.io/) - Gitpod was used over the duration of this site, as a virtual workspace environment.
 * [WireframeCC](https://wireframe.cc/) - This service was utilised to create sample wireframe guides to structure the content to be displayed on the site.
@@ -113,12 +117,18 @@ the advertised article at the bottom left of the page.
 
 ## Further Testing
 
-# Known Bugs
+### Known Bugs
 
 On deployment of the W. Marjoribanks Photography website, it was identified that the images weren't displaying on any of the carousel
 elements, gallery grid system and modal windows. This was fixed by reuploading the images  without the '_' filename prefix and changing 
 the file extension from '.jpg' to '.JPG'. This rectified the issue and now, when a user accesses the GitHub pages link at the head of
 the README.md document, all images are displayed.
+
+### Scalability
+
+In future advancements of the W. Marjoribanks Photography, the aim would be to add a payment feature within the site, as opposed to using
+a third party site. In addition to this, it would be ideal to create a search bar, in which frequent users of the site could search for their
+chosen artwork or blog article.
 
 # Credits
 
@@ -126,7 +136,7 @@ the README.md document, all images are displayed.
 
 * **Hover** effect on 'Choose Art' button on homepage, found at: https://www.developerdrive.com/8-simple-css-hover-effects/
 
-## Content
+# Content
 ## Media
 
 [Am I Responsive](http://ami.responsivedesign.is/#) - This tool had been utilised to demonstrate the responsiveness that can
@@ -134,10 +144,10 @@ be expected across various screen devices.
 
 <img src="wireframes/responsive.png" width="500">
 
-#### YouTube Links Used as Reference Guide:
+### YouTube Links Used as Reference Guide:
 * [Click here for the link](https://www.youtube.com/watch?v=qmPmwdshCMw) used for further practical explanation of Bootstrap Grid - supplied by my mentor.
 
-## Acknowledgements
+# Acknowledgements
 
 Many thanks to my mentor, Felipe Souza Alarcon, for being able to assist me at a moments notice, when I was encountering difficulty with various aspects of the project
  and for ensuring I make the most of the tools available to me.

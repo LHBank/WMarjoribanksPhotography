@@ -513,11 +513,11 @@ footer{
 /* BLOG START */
 
 .BlogSectHead{
-    padding-top: 4rem;
+    padding-top: 3rem;
 }
 
 .BlogRow{
-    padding: 3rem 0;
+    padding: 2rem 0;
 }
 
 .BlogImg{
@@ -526,12 +526,11 @@ footer{
 
 .BlogDate{
     color: #1C3738;
-    padding-bottom: 0.5rem;
 }
 
 .BlogHead{
     color: #1C3738;
-    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .BlogText{

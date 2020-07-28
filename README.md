@@ -129,6 +129,11 @@ the README.md document, all images are displayed.
 ## Content
 ## Media
 
+[Am I Responsive](http://ami.responsivedesign.is/#) - This tool had been utilised to demonstrate the responsiveness that can
+be expected across various screen devices.
+
+<img src="wireframes/responsive.png" width="500">
+
 #### YouTube Links Used as Reference Guide:
 * [Click here for the link](https://www.youtube.com/watch?v=qmPmwdshCMw) used for further practical explanation of Bootstrap Grid - supplied by my mentor.
 

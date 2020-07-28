@@ -110,45 +110,6 @@ footer,button,h5,h6{
     background-color: #8BAAAD;
 }
 /* NAVBAR FINISH */
-
-/* NO FILE CSS */
-
-.PrintAvail-Title{
-    padding-top: 5rem; 
-    padding-bottom: 4rem;
-    padding-left: 2rem;
-}
-
-.PrintAvail-Text{
-    font-style: italic;
-    font-size: 1.25rem;
-    padding-bottom: 5rem;
-    padding-left: 2rem;
-}
-
-.CTA-Btn{
-    font-family: "Italiana", sans-serif;
-    text-transform: uppercase;
-    background-color: #4D4847;
-    border-color: #4D4847;
-    color:#F4FFF8;
-    margin: auto;
-    margin-bottom: 5.4rem;
-    margin-left: 2rem;
-}
-
-.CTA-Btn:hover{
-    background-color: #3F826D;
-    border-color: #3F826D;
-    color: #F4FFF8;
-    transition: all .35s ease-in-out;
-    -moz-transition: all .35s ease-in-out;
-    -webkit-transition: all .35s ease-in-out;
-    -o-transition: all .35s ease-in-out;
-}
-
-/* NO FILE CSS FINISH */
-
 /* LANDING START */
 
 /* Landing Header Start */
@@ -204,15 +165,9 @@ footer,button,h5,h6{
     -o-transition: all .9s ease-in-out;
 }
 
-.LCardContCust{
-    text-decoration: none;
-    color: #1C3738; 
-}
-
-.LCardContCust:hover{
-    text-decoration: none;
-    font-weight: 400;
-    color: #1C3738; 
+.LCardHdCust{
+    background-color: rgba(139,170,173,0.5);
+    color: #1C3738;
 }
 
 .ECTLINK{
@@ -225,9 +180,23 @@ footer,button,h5,h6{
     color: #1C3738; 
 }
 
-.LCardHdCust{
-    background-color: rgba(139,170,173,0.5);
-    color: #1C3738;
+.CFBtnCust{
+    font-family:"Italiana", sans-serif ;
+    text-transform: uppercase;
+    background-color: #4D4847;
+    border-color: #4D4847;
+    color:#F4FFF8;
+}
+
+.CFBtnCust:hover{
+    font-family:"Italiana", sans-serif ;
+    background-color: #3F826D;
+    border-color: #3F826D;
+    color: #F4FFF8;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
 }
 
 /* LAND CARD FINISH */
@@ -303,7 +272,8 @@ footer{
 }
 
 /* Footer Links Finish */
-/* FOOTER FINISH */
+/* Footer Finish*/
+
 /* ABOUT START */
 
 .AbLog{
@@ -369,6 +339,43 @@ footer{
     -o-transition: all .35s ease-in-out;
 }
 
+/* NO FILE CSS */
+
+.PrintAvail-Title{
+    padding-top: 5rem; 
+    padding-bottom: 4rem;
+    padding-left: 2rem;
+}
+
+.PrintAvail-Text{
+    font-style: italic;
+    font-size: 1.25rem;
+    padding-bottom: 5rem;
+    padding-left: 2rem;
+}
+
+.CTA-Btn{
+    font-family: "Italiana", sans-serif;
+    text-transform: uppercase;
+    background-color: #4D4847;
+    border-color: #4D4847;
+    color:#F4FFF8;
+    margin: auto;
+    margin-bottom: 5.4rem;
+    margin-left: 2rem;
+}
+
+.CTA-Btn:hover{
+    background-color: #3F826D;
+    border-color: #3F826D;
+    color: #F4FFF8;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+}
+
+/* NO FILE CSS FINISH */
 /* B & W */
 
 .bwTitle{
@@ -593,21 +600,4 @@ footer{
 .FormInput{
     padding-top: 2rem;
     padding-bottom: 2rem;
-}
-
-.CFBtnCust{
-    background-color: #4D4847;
-    border-color: #4D4847;
-    color:#F4FFF8;
-}
-
-
-.CFBtnCust:hover{
-    background-color: #3F826D;
-    border-color: #3F826D;
-    color: #F4FFF8;
-    transition: all .35s ease-in-out;
-    -moz-transition: all .35s ease-in-out;
-    -webkit-transition: all .35s ease-in-out;
-    -o-transition: all .35s ease-in-out;
 }

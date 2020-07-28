@@ -150,6 +150,8 @@ footer,button,h5,h6{
 }
 
 .LCardBodCust{
+    text-decoration: none;
+    color: #1C3738;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
@@ -166,6 +168,16 @@ footer,button,h5,h6{
 
 .LCardHdCust{
     background-color: rgba(139,170,173,0.5);
+    color: #1C3738;
+}
+
+.LCardLink{
+    text-decoration: none;
+    color: #1C3738;
+}
+
+.LCardLink:hover{
+    text-decoration: none;
     color: #1C3738;
 }
 

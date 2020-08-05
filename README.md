@@ -126,6 +126,15 @@ In future advancements of the W. Marjoribanks Photography, the aim would be to a
 a third party site. In addition to this, it would be ideal to create a search bar, in which frequent users of the site could search for their
 chosen artwork or blog article.
 
+### Speed Testing
+
+Due to the site being photography-centric, it requires the use of high-quality images throughout, and despite the efforts made to lessen and 
+compress the file size of each img file used, this did have an overall effect on the site's speed. It didn't cause a major issue with loading,
+however, it is to be expected.
+
+To measure the speed of the site's loading, I used GTMetrix. [Clicking on this link](https://gtmetrix.com/reports/lhbank.github.io/9Pk3GSXt), 
+will open a new screen with the report attached to W. Marjoribanks Photography.
+
 # Credits
 
 ## Code

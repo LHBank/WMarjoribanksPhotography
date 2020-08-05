@@ -106,7 +106,6 @@ I was interested in taking with my family, and who would take payment.
 * As a returning visitor, I was able to find out if initially unavailable images which I had selected on my previous visit were now
 able to be printed, by clicking on the selected artwork. I was also linked to the "Contact" page by clicking the "More Info" button
 on the pop-up window of a selected artwork.
-
 ### Frequent User Goals
 * As a frequent user of the site, after registering for updates on submitting my details via the "Contact" page, I was able to navigate
 with ease to the blog section of the site, to read the newest blog article. I was also able to access this via the homepage, from

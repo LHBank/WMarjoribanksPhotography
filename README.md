@@ -53,14 +53,11 @@ by selected browsers or devices.
 With imagery being at the forefront and of utmost importance to the site, original artworks owned by William Marjoribanks, were used throughout
 the website to display high quality images, and the result they could expect from purchasing a piece from the portfolio.
 
-## Wireframes
-### Desktop Wireframe
-<img src="wireframes/LaptopLand.png" width="350"> <img src="wireframes/LaptopAbout.png" width="350">
-<img src="wireframes/LaptopGallery.png" width="350"> <img src="wireframes/LaptopBlog.png" width="350">
-
-### Mobile Device
-<img src="wireframes/MobileLand.png" width="350"> <img src="wireframes/MobileAbout.png" width="350">
-<img src="wireframes/MobileGallery.png" width="350"> <img src="wireframes/MobileBlog.png" width="350">
+### Wireframes
+The wireframes created at the beginning of the project and used as a reference throughout are
+situated in a dedicated folder entitled ['wireframes'](https://github.com/LHBank/WMarjoribanksPhotography/tree/master/wireframes), 
+at the same level as the homepage, 'index.html'. It contains screenshot images, for both the Desktop and Tablet viewport screen sizes. As mentioned, the 
+wireframes were used as a point of reference, but on project development, found that there were various, more suitable elements to display the portfolio.
 
 # Features
 * High quality photography portfolio.

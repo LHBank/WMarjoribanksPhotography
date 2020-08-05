@@ -133,7 +133,13 @@ chosen artwork or blog article.
 
 * **Hover** effect on 'Choose Art' button on homepage, found at: https://www.developerdrive.com/8-simple-css-hover-effects/
 
-# Content
+## Content
+On inspection of the html files associated with W. Marjoribanks Photography, it is evident 'nofile.html' was not <em>immediately</em>
+shown as a navigation link on the navbar, nor through various navigation buttons. This served <em>only</em> as a page which users
+would see when clicking on three images which hadn't yet been made available through the third party site for purchase. It provides
+the user with a page explaining that the image they were interested in the purchase of, was not yet made available. There was also
+a button which linked to the Contact form to reach out for further information or updates.
+
 ## Media
 
 [Am I Responsive](http://ami.responsivedesign.is/#) - This tool had been utilised to demonstrate the responsiveness that can

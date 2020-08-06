@@ -44,7 +44,7 @@ and content.
 
 ### Typography
 Throughout the site, a constant theme used was by using Italiana, Nanum Gothic and Almaira, from Google Fonts. Italiana was
-used against headings and input forms including buttons, and Nanum Gothic as the primary font for navigation links and text content
+used primarily against larger headings and subheadings. Nanum Gothic was used as the primary font for buttons and text content
 not included in any heading elements. Almaira was used against the heading and content elements in the Modal Window to match that of the
 third party site where images can be purchased. Sans Serif was used as a substitute where the aforementioned custom fonts were not supported 
 by selected browsers or devices.

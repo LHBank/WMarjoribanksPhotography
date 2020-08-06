@@ -124,9 +124,9 @@ footer,button,h5,h6{
 }
 
 .LandingText p{
-    font-family: "Italiana", sans-serif;
     font-size: 1rem;
     font-style: italic;
+
 }
 
 /* Index.html Carousel START */
@@ -192,15 +192,14 @@ footer,button,h5,h6{
 }
 
 .CFBtnCust{
-    font-family:"Italiana", sans-serif ;
-    text-transform: uppercase;
+    font-family:"Nanum Gothic", sans-serif;
+    text-transform: none;
     background-color: #4D4847;
     border-color: #4D4847;
     color:#F4FFF8;
 }
 
 .CFBtnCust:hover{
-    font-family:"Italiana", sans-serif ;
     background-color: #3F826D;
     border-color: #3F826D;
     color: #F4FFF8;
@@ -561,14 +560,13 @@ footer{
 }
 
 .BlogBtn{
-    font-family: "Italiana", sans-serif;
+    font-family: "Nanum Gothic", sans-serif;
     background-color: #4D4847;
     border-color: #4D4847;
     color:#F4FFF8;
 }
 
 .BlogBtn:hover{
-    font-family: "Italiana", sans-serif;
     background-color: #3F826D;
     border-color: #3F826D;
     color:#F4FFF8;
@@ -580,7 +578,7 @@ footer{
 }
 
 .BlogArtBtn{
-    font-family: "Italiana", sans-serif;
+    font-family: "Nanum Gothic", sans-serif;
     background-color: #4D4847;
     border-color: #4D4847;
     color:#F4FFF8;
@@ -588,7 +586,6 @@ footer{
 }
 
 .BlogArtBtn:hover{
-    font-family: "Italiana", sans-serif;
     background-color: #3F826D;
     border-color: #3F826D;
     color: #F4FFF8;

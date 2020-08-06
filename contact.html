@@ -63,14 +63,14 @@
 <!-- FORM INPUT -->
         <div class="row">
             <div class="col-md-8 offset-md-2 FormInput text-center">
-                <form>
+                <form action="https://formspree.io/mvowlyva" method="POST">
                     <div class="form-group">
                         <label for="exampleFormControlInput1">Email Address</label>
-                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" required>
+                        <input type="email" name="_replyto" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" required>
                     </div>
                     <div class="form-group">
                         <label for="exampleFormControlTextarea1">Message</label>
-                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
+                        <textarea class="form-control" name="message" id="exampleFormControlTextarea1" rows="3" required></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary btn-md CFBtnCust">Send This<span class="sr-only">Send Form</span></button>
                 </form>

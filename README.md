@@ -134,7 +134,7 @@ compress the file size of each img file used, this did have an overall effect on
 however, it is to be expected.
 
 To measure the speed of the site's loading, I used GTMetrix. [Clicking on this link](https://gtmetrix.com/reports/lhbank.github.io/9Pk3GSXt), 
-will open a new screen with the report attached to W. Marjoribanks Photography.
+will open a new window with the report attached to W. Marjoribanks Photography.
 
 # Credits
 

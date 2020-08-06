@@ -121,6 +121,12 @@ elements, gallery grid system and modal windows. This was fixed by reuploading t
 the file extension from '.jpg' to '.JPG'. This rectified the issue and now, when a user accesses the GitHub pages link at the head of
 the README.md document, all images are displayed.
 
+### Typography Changes
+
+Taking into consideration outside feedback regarding font choice throughout the website, the smaller headings and buttons which previously 
+used Italiana in uppercase, were changed to Nanum Gothic for clarity and definition. This has improved the user experience, as Italiana is
+more suited to larger headings.
+
 ### Scalability
 
 In future advancements of the W. Marjoribanks Photography, the aim would be to add a payment feature within the site, as opposed to using

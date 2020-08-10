@@ -15,6 +15,15 @@ to contact the photographer for potential or upcoming projects as well as Englis
 
 This website has been deployed to Github pages and can be accessed by [clicking here.](https://lhbank.github.io/WMarjoribanksPhotography/)
 
+The steps I took in order to deploy this site to GitHub pages were as follows:
+
+* I first selected the chosen repository, in this case "WMarjoribanksPhotography".
+* I then selected the 'Settings' tab, seen above the contents list of the repository.
+* Scrolling down to the GitHub Pages subheading near the bottom of the page.
+* When clicking on the dropdown menu box, and changing the option from "none" to "Master Branch".
+* Once this page has automatically refreshed on changing this option, scroll down to the same Github
+Pages subheading, which now has a green highlighted box, confirming that the site has been published.
+
 ## User Experience (UX)
 
 ## User Stories
